@@ -1,5 +1,5 @@
 """
-STSHOP v2.0.0
+STSHOP v2.0.1
 "COMMIT MESSAGE"
 RegisterUser
 Login witch Email

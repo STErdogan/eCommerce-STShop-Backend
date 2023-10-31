@@ -1,9 +1,9 @@
 """
-STSHOP v2.0.2
+STSHOP v2.0.3
 "COMMIT MESSAGE"
-RegisterUser
-Login witch Email
-URL,Views cleanup
+orderUrl
+orderView
+orderserializer
 
 Django settings for backend project.
 
